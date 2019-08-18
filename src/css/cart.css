@@ -1,0 +1,15 @@
+ 
+.thumbnail {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+ .page {
+   width: 1700px;
+   
+   margin-right: 300px;
+ }
+
+ .row {
+   width: 1300px;
+ }

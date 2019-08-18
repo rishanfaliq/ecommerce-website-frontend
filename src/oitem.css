@@ -1,0 +1,37 @@
+.orderrow {
+  width: 700px;
+}
+
+.imgorder {
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+}
+
+.how-itemcart1 {
+  width: 100px;
+  height: 150px;
+}
+
+.column2 {
+  height: 100px;
+  margin: 20px;
+}
+
+.column3 {
+  width: 100px;
+  margin-left: 30px;
+}
+
+.column4 {
+  width: 30px;
+}
+
+.column5 {
+  margin-left: 90px;
+  width: 80px;
+}
+
+.column6 {
+  width: 200px;
+}

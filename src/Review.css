@@ -1,0 +1,45 @@
+.card-inner {
+  margin-left: 4rem;
+}
+
+.card {
+  width: 1000px;
+  margin-left: 150px;
+  margin-top: 5px;
+}
+
+.topicReview {
+  margin-left: 40px;
+}
+
+.like {
+  max-width: 60px;
+  max-height: 40px;
+}
+
+.text-secondary {
+  font-size: 10px;
+}
+
+.card-body {
+  width: 500px;
+}
+
+.date {
+  margin-left: 800px;
+  width: 200px;
+  margin-bottom: 0px;
+}
+
+.setReview {
+  width: 900px;
+  height: 20px;
+  font-size: 15px;
+}
+
+.review {
+  margin-left: 100px;
+}
+.texts {
+  margin-bottom: 1px;
+}
